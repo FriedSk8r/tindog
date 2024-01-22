@@ -152,3 +152,22 @@ p {
 .pricing-header {
     color: black;
 }
+
+/* styles.css */
+.chihuahua-image {
+    width: 100%; /* Adjust the width as needed */
+    height: auto; /* Maintain the aspect ratio */
+    border-radius: 8px; /* Optional: Add rounded corners */
+  }
+
+  .labrador-image {
+    width: 100%; /* Adjust the width as needed */
+    height: auto; /* Maintain the aspect ratio */
+    border-radius: 8px; /* Optional: Add rounded corners */
+  }
+
+  .mastiff-image {
+    width: 100%; /* Adjust the width as needed */
+    height: auto; /* Maintain the aspect ratio */
+    border-radius: 8px; /* Optional: Add rounded corners */
+  }
